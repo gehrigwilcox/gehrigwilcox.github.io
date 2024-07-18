@@ -4,7 +4,7 @@ layout: post
 title: "First Post"
 subtitle: This is the subtitle of my first post
 description: This is my first post
-image:
+image: /assets/imgs/claudio-schwarz-4eKOSAjMRhc-unsplash.jpg
 optimized_image:
 category: blog
 tags:
