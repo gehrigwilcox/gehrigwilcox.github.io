@@ -27,15 +27,11 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: gehrigwilcox
-linkedin_username: gehrigwilcox
+linkedin_username: in/gehrigwilcox
 
 # Posts Settings
 show_time_bar: true
