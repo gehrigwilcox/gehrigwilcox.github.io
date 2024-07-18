@@ -1,4 +1,5 @@
-theme: jekflix
+#theme: jekflix
+remote_theme: thiagorossener/jekflix-template
 
 # Site Settings
 name: Gehrig's Blog
