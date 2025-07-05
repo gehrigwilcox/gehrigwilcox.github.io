@@ -59,4 +59,13 @@ X^2
 
 this is a link to the [top](#title)
 
+This is a mermaid diagram
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 [^1]: this is a footnote
