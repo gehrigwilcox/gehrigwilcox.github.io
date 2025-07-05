@@ -1,0 +1,13 @@
+---
+# This layout extends minima and adds Mermaid.js support
+layout: minima
+description: "Default layout with Mermaid.js support"
+---
+
+{{ content }}
+
+<!-- Mermaid.js CDN -->
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
